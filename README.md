@@ -6,8 +6,8 @@
 
 ### 启动参数：
 
-- `-full_screen` - 启动时自动全屏,
-- `-loop` - 
+- `-full_screen` - 初始全屏,
+- `-loop <loopType>` - 设置循环类型[0：关，1：循环单首，2：循环全部，3：随机播放]
 
 ## Video playback function
 
