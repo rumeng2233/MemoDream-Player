@@ -16,6 +16,13 @@
 - `-top_window` - 初始总在最前[UIAccess准备失败时将置顶在一般置顶窗口上，UIAccess准备成功时将置顶在与Microsoft 屏幕放大镜同等Z序(高于开启置于顶层的任务管理器)],
 - `-image_enhancement` - 初始开启画质增强[**此设置在使用Bass播放时无效**],
 - `-render_type <renderType>` - 设置视频的渲染方式[1：覆盖模式(Overlay)，2：未渲染(Renderless)，3：增强型(EVR)，4：增强自渲染(EVRCP)，5：AVR，**此设置在使用Bass播放时无效**],
+- `-disable_video` - 初始禁用视频,
+- `-disable_audio` - 初始禁用音频,
+- `-auto_continue_play` - 初始开启自动继续播放,
+- `-spectrum_update_speed <updateSpeed>` - 设置频谱刷新速度[有效范围为非负数，负数视作0，0：停止加载，>0：每隔多少毫秒刷新频谱，**此设置在使用APlayer播放时无效**],
+- `-spectrum_colours <colourOne|colourTwo|colourThree>` - 设置频谱显示颜色[共三个十进制颜色值，用`|`分割，格式为：频谱柱上渐变色|频谱柱下渐变色|频谱线色],
+- `-top_window` - 
+- `-top_window` - 
 
 ## Video playback function
 
