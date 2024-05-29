@@ -1,18 +1,22 @@
 # Video Player
 
-Made By 是如梦呀rumeng2233.
+### Made By 是如梦呀rumeng2233.
 
 使用前最好把证书安装到受信任的根证书颁发机构里，不然可能会导致“从服务器返回了一个参照。”、UIAccess无法正常准备等问题.
 
-# Video playback function
+### 启动参数：
+
+-`-full_screen`
+
+## Video playback function
 
 APlayer媒体播放引擎(http://aplayer.open.xunlei.com/index.html).
 
-# Audio playback function
+## Audio playback function
 
 BASS audio library(https://www.un4seen.com/).
 
-# Special Thanks
+## Special Thanks
 
 柒忆未染,
 
