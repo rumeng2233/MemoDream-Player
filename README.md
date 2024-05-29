@@ -6,7 +6,7 @@
 
 ### 启动参数：
 
--`-full_screen`
+- `--output`
 
 ## Video playback function
 
