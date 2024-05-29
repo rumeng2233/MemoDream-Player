@@ -13,6 +13,9 @@
 - `-wallpaper` - 初始嵌入桌面,
 - `-hide_control` - 初始隐藏下方播放控件,
 - `-speed <playSpeed>` - 设置播放速度[有效范围为1-400(1%-400%播放速度)，**此设置在使用Bass播放时无效**],
+- `-top_window` - 初始总在最前[UIAccess准备失败时将置顶在一般置顶窗口上，UIAccess准备成功时将置顶在与Microsoft 屏幕放大镜同等Z序(高于开启置于顶层的任务管理器)],
+- `-image_enhancement` - 初始开启画质增强[**此设置在使用Bass播放时无效**],
+- `-render_type <renderType>` - 设置视频的渲染方式[1：覆盖模式(Overlay)，2：未渲染(Renderless)，3：增强型(EVR)，4：增强自渲染(EVRCP)，5：AVR，**此设置在使用Bass播放时无效**],
 
 ## Video playback function
 
