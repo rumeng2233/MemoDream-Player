@@ -6,7 +6,7 @@
 
 ### 启动参数：
 
-- `--output`
+- `-full_screen`：启动时自动全屏,
 
 ## Video playback function
 
