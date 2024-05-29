@@ -8,7 +8,9 @@
 
 - `-full_screen` - 初始全屏,
 - `-loop <loopType>` - 设置循环类型[0：关，1：循环单首，2：循环全部，3：随机播放],
-- `-volume <volumeLevel>` - 设置音量大小[APlayer范围为0-1000(0为静音，100为正常音量，1000为放大10倍)，Bass范围为0.0-100.0(0.0为静音，100.0为正常音量)]
+- `-volume <volumeLevel>` - 设置音量大小[APlayer范围为0-1000(0为静音，100为正常音量，1000为放大10倍)，Bass范围为0.0-100.0(0.0为静音，100.0为正常音量)],
+- `-wallpaper` - 初始嵌入桌面,
+- `-hide_control` - 初始隐藏下方播放控件,
 
 ## Video playback function
 
