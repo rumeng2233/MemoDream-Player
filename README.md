@@ -21,7 +21,7 @@
 - `-auto_continue_play <value>` - 设置是否开启自动继续播放[`true`：开启，`false`：关闭],
 - `-spectrum_update_speed <updateSpeed>` - 设置频谱刷新速度[有效范围为非负数，负数视作0，`0`：停止加载，`>0`：每隔多少毫秒刷新频谱，**此设置在使用APlayer播放时无效**],
 - `-spectrum_colours <colourOne|colourTwo|colourThree>` - 设置频谱显示颜色[共三个十进制颜色值，用`|`分割，格式为：`频谱柱上渐变色|频谱柱下渐变色|频谱线色`，**此设置在使用APlayer播放时无效**],
-- `-parentHWND <hwnd>` - 初始设置当前Video Player窗口的父窗口[需传入一个`十进制窗口句柄`],
+- `-parentHWND <hwnd>` - 初始设置当前忆梦播放器窗口的父窗口[需传入一个`十进制窗口句柄`],
 - `/p <hwnd>` - 与`-parentHWND <hwnd>`参数相同,
 - `-bass <value>` - 设置是否使用Bass播放[`true`：使用，`false`：不使用],
 - `-hide_menu <value>` - 设置是否隐藏播放菜单[`true`：隐藏，`false`：显示],
