@@ -1,6 +1,6 @@
 # Video Player
 
-### Made By 是如梦呀rumeng2233.
+### 作者：是如梦呀rumeng2233、柒忆未染.
 
 使用前最好把证书安装到受信任的根证书颁发机构里，不然可能会导致“从服务器返回了一个参照。”、UIAccess无法正常准备等问题.
 
@@ -27,15 +27,15 @@
 - `-hide_menu <value>` - 设置是否隐藏播放菜单[`true`：隐藏，`false`：显示],
 - `-display_playlist <value>` - 设置是否显示播放列表[`true`：显示，`false`：隐藏].
 
-## Video playback function
+## 视频播放功能
 
 APlayer媒体播放引擎(http://aplayer.open.xunlei.com/index.html).
 
-## Audio playback function
+## 音频播放功能
 
 BASS audio library(https://www.un4seen.com/).
 
-## Special Thanks
+## 特别鸣谢
 
 柒忆未染,
 
