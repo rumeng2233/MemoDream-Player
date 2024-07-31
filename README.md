@@ -25,7 +25,9 @@
 - `/p <hwnd>` - 与`-parentHWND <hwnd>`参数相同,
 - `-bass <value>` - 设置是否使用Bass播放[`true`：使用，`false`：不使用],
 - `-hide_menu <value>` - 设置是否隐藏播放菜单[`true`：隐藏，`false`：显示],
-- `-display_playlist <value>` - 设置是否显示播放列表[`true`：显示，`false`：隐藏].
+- `-display_playlist <value>` - 设置是否显示播放列表[`true`：显示，`false`：隐藏],
+- `-exit_type <type>` - 设置窗口关闭询问[`0`：从不询问，`1`：始终询问，`2`：播放时询问],
+- `-hide_window <value>` - 设置是否显示主窗口[`true`：显示，`false`：隐藏].
 
 ## 视频播放功能
 
