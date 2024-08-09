@@ -28,6 +28,7 @@
 - `-display_playlist <value>` - 设置是否显示播放列表[`true`：显示，`false`：隐藏],
 - `-exit_type <type>` - 设置窗口关闭询问[`0`：从不询问，`1`：始终询问，`2`：播放时询问],
 - `-hide_window <value>` - 设置是否显示主窗口[`true`：显示，`false`：隐藏].
+- `-media_change_message_type <type>` - 设置媒体变更提示[`0`：从不提示，`1`：始终提示，`2`：最小化或隐藏时提示],
 
 ## 视频播放功能
 
