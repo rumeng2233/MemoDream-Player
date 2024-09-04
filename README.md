@@ -38,6 +38,10 @@ APlayer媒体播放引擎(http://aplayer.open.xunlei.com/index.html).
 
 BASS audio library(https://www.un4seen.com/).
 
+## UIAccess
+
+uiaccess(https://github.com/killtimer0/uiaccess).
+
 ## 特别鸣谢
 
 柒忆未染,
